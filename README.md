@@ -11,3 +11,8 @@ Implementation of expander codes and their erasure decoding in Julia
 6. Pick a codeword in $T$. For now pick $0$
 7. Pass the codeword through the erasure channel
 8. Decode this erasure using the $UniqueDecode$ algorithm
+
+### References
+[1] Guruswami, Venkatesan, Atri Rudra, and Madhu Sudan. "Essential coding theory." Draft available at `http://www. cse. buffalo. edu/atri/courses/coding-theory/book 2, no. 1 (2012).`
+
+[2] Ron-Zewi, Noga, Mary Wootters, and Gilles Zémor. "Linear-time erasure list-decoding of expander codes." IEEE Transactions on Information Theory 67, no. 9 (2021): 5827-5839.
